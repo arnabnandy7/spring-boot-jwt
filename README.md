@@ -397,3 +397,4 @@ $ curl -X GET http://localhost:8080/users/me -H 'Authorization: Bearer <JWT_TOKE
 - Open pull request with improvements
 - Spread the word
 - Reach out to me directly at <mauriurraco@gmail.com>
+<!-- GitAds-Verify: PTPTHHQ3JNKTOK6XKG5411Q369EC7IO6 -->
